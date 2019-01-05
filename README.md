@@ -58,3 +58,5 @@ solving our problem of having less data. :) <br/>
 
 train the model(by the way verbose means how you want to show training process)<br/>
 ![](images/12.png)
+
+please share if this helped :)
