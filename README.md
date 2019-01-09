@@ -4,7 +4,7 @@ training a custom made model to predict name of flower given its image.<br/>
 I am using Keras for this.<br/>
 
 
-**EXPLANATION**
+**EXPLANATION**<br/>
 we print out location of our python file using this command.<br/>
 **os.listdir** will give names of all files in the location given to it.<br/>
 ![](images/2.png)
